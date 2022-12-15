@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://alanbernal.pe" target="blank">
 Alan Bernal</a></h1>
-<h3 align="center" style="margin-bottom:16px;">Informatic Engineer | Lead Developer | Junior Businessman</h3>
+<h3 align="center">Informatic Engineer | Lead Developer | Junior Businessman</h3>
+<br>
 
-<p style="display:flex;justify-content:center;gap:12px;margin-bottom:16px;">
+<p align="center">
 <a href="https://www.linkedin.com/in/alanbernale/" target="_blank"><img align="center" src="https://alanbernalpe.sfo3.digitaloceanspaces.com/_personal/icons/linkedin-icon.svg" alt="Linkedin" height="40" width="40" /></a>
 <a href="https://www.instagram.com/bernaldev/" target="_blank"><img align="center" src="https://alanbernalpe.sfo3.digitaloceanspaces.com/_personal/icons/instagram-icon.svg" alt="Instagram" height="40" width="40" /></a>
 <a href="https://www.facebook.com/bernaldev/" target="_blank"><img align="center" src="https://alanbernalpe.sfo3.digitaloceanspaces.com/_personal/icons/facebook-icon.svg" alt="Facebook" height="40" width="40" /></a>
@@ -10,6 +11,8 @@ Alan Bernal</a></h1>
 <a href="https://www.twitter.com/alanbernale" target="_blank"><img align="center" src="https://alanbernalpe.sfo3.digitaloceanspaces.com/_personal/icons/twitter-icon.svg" alt="Twitter" height="40" width="40" /></a>
 <a href="https://www.youtube.com/bernaldev" target="_blank"><img align="center" src="https://alanbernalpe.sfo3.digitaloceanspaces.com/_personal/icons/youtube-icon.svg" alt="Youtube" height="40" width="40" /></a>
 </p>
+
+<br>
 
 <p align="center">
   <em>
@@ -28,18 +31,15 @@ Alan Bernal</a></h1>
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![PHP](https://img.shields.io/badge/PHP%20-%23818CB7.svg?style=for-the-badge&logo=php&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>   
     
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![SASS](https://img.shields.io/badge/SASS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
    ![Vue](https://img.shields.io/badge/Vue%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=black)
-
-<br>   
     
 - **Back-End Development**:
 
@@ -47,8 +47,6 @@ Alan Bernal</a></h1>
    ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br>
 
 - **Database Management System**:
 
@@ -58,8 +56,6 @@ Alan Bernal</a></h1>
     ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     
-<br>
-
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -70,17 +66,12 @@ Alan Bernal</a></h1>
     ![PhpStorm](https://img.shields.io/badge/phpstorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
-
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
 </p>
 
-<br>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbernale&layout=compact&hide=html" alt="alanbernale" /></p>
